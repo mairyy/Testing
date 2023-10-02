@@ -1,4 +1,7 @@
+package FunctionalTesting;
+
 import org.junit.Test;
+import main.Scholarship;
 
 import static org.junit.Assert.assertEquals;
 

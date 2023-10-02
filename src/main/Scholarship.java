@@ -1,3 +1,5 @@
+package main;
+
 public class Scholarship {
     public static String calScholar(int num_B, double gpa) {
         if(num_B < 0 || num_B >30) {
